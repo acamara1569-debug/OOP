@@ -1,8 +1,0 @@
-public class HelloAmi {
-
-    public static void main(String[] args) {
-        System.out.println("Hello Aminata!");
-    }
-}
-    
-
